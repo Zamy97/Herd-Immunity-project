@@ -44,7 +44,7 @@ class Person(object):
     def __init__(self, _id, is_vaccinated, infection=None):
         # TODO:  Finish this method.  Follow the instructions in the class documentation
         # to set the corret values for the following attributes.
-        self._id = None
+        self._id = _id
         self.is_vaccinated = None
         self.is_alive = None
         self.infection = None
