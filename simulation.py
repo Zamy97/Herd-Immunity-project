@@ -215,6 +215,11 @@ class Simulation(object):
         #   - Set this Person's .infected attribute to True.
         # NOTE: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list!
+        self.infected_count = len(self.newly_infected)
+        for person_id in self.newly_infected:
+            person = self.population[perspn_id]
+            person.infection = self.virus_name
+        self.newly_infected = []
 
 if __name__ == "__main__":
     params = sys.argv[1:]
