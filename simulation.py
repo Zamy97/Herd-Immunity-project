@@ -133,12 +133,15 @@ class Simulation(object):
         time_step_counter = 0
         # TODO: Remember to set this variable to an intial call of
         # self._simulation_should_continue()!
-        should_continue = None
+        should_continue = self._simulation_should_continue()
         while should_continue:
         # TODO: for every iteration of this loop, call self.time_step() to compute another
         # round of this simulation.  At the end of each iteration of this loop, remember
         # to rebind should_continue to another call of self._simulation_should_continue()!
-            pass
+            time_step_number += 1
+            self.logger.log_time_step(time_step_counter)
+            self.time_step()
+            should_continue = self._simulation_should_continue()
         print('The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
 
     def time_step(self):
@@ -153,7 +156,33 @@ class Simulation(object):
             #           - Else:
             #               - Call simulation.interaction(person, random_person)
             #               - Increment interaction counter by 1.
-            pass
+        infected_people = []
+        for person in self.population:
+            if person.infection != None:
+                infected_people.append(person._id)
+
+        for infected_person in infected_people:
+            for encounter in range(100):
+                random_person = None
+                while random_person == None:
+                    chosen_person = self.population[random.randint(0, len(self.population) - 1)]
+                    if chosen_person.is_alive:
+                        random_person = chosen_person
+                        # print(random_person._id)
+                self.interaction(self.population[infected_person], random_person)
+        for infected_person in infected_people:
+            person = self.population[infected_person]
+            did_survive = person.did_survive_infection(self.mortality_rate)
+            self.logger.log_infection_survival(person, did_survive)
+            if(not did_survive):
+                self.dead+=1
+            self.infected_count-=1
+
+
+
+        self._infect_newly_infected()
+        # COME BACK TO THAT
+        #for infected_person in infected_people:
 
     def interaction(self, person, random_person):
         # TODO: Finish this method! This method should be called any time two living
