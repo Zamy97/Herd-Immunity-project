@@ -52,23 +52,24 @@ class Simulation(object):
         -- Once len(population) is the same as self.population_size, returns population.
     '''
 
-    def __init__(self, population_size, vacc_percentage, virus_name,
-                 mortality_rate, basic_repro_num, initial_infected=1):
+    def __init__(self, population_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num, initial_infected=1):
         self.population_size = population_size
         self.population = []
         self.total_infected = 0
         self.current_infected = 0
         self.next_person_id = 0
         self.virus_name = virus_name
+        self.infected_count = initial_infected
+        self.dead = 0
         self.mortality_rate = mortality_rate
+        self.infection_rate = infection_rate
         self.basic_repro_num = basic_repro_num
-        self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
-            virus_name, population_size, vacc_percentage, initial_infected)
+        self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(virus_name, population_size, vacc_percentage, initial_infected)
 
         # TODO: Create a Logger object and bind it to self.logger.  You should use this
         # logger object to log all events of any importance during the simulation.  Don't forget
         # to call these logger methods in the corresponding parts of the simulation!
-        self.logger = None
+        self.logger = Logger(self.file_name)
 
         # This attribute will be used to keep track of all the people that catch
         # the infection during a given time step. We'll store each newly infected
@@ -78,6 +79,7 @@ class Simulation(object):
         self.newly_infected = []
         # TODO: Call self._create_population() and pass in the correct parameters.
         # Store the array that this method will return in the self.population attribute.
+        self.population = self._create_population(initial_infected)
 
     def _create_population(self, initial_infected):
         # TODO: Finish this method!  This method should be called when the simulation
