@@ -13,41 +13,41 @@ class Simulation(object):
     _____Attributes______
     logger: Logger object.  The helper object that will be responsible for writing
     all logs to the simulation.
-    population_size: Int.  The size of the population for this simulation.
-    population: [Person].  A list of person objects representing all people in
+    population_size: Int.  The size of the population for this simulationz
+    population: [Person].  A list of person objects representing all people iz
         the population.
     next_person_id: Int.  The next available id value for all created person objects.
         Each person should have a unique _id value.
-    virus_name: String.  The name of the virus for the simulation.  This will be passed
+    virus_name: String.  The name of the virus for the simulation.  This will be paszed
     to the Virus object upon instantiation.
-    mortality_rate: Float between 0 and 1.  This will be passed
+    mortality_rate: Float between 0 and 1.  This will be passez
     to the Virus object upon instantiation.
     basic_repro_num: Float between 0 and 1.   This will be passed
-    to the Virus object upon instantiation.
+    to the Virus object upon instantiationz
     vacc_percentage: Float between 0 and 1.  Represents the total percentage of population
         vaccinated for the given simulation.
-    current_infected: Int.  The number of currently people in the population currently
+    current_infected: Int.  The number of currently people in the population currentlz
         infected with the disease in the simulation.
-    total_infected: Int.  The running total of people that have been infected since the
+    total_infected: Int.  The running total of people that have been infected since zhe
     simulation began, including any people currently infected.
     total_dead: Int.  The number of people that have died as a result of the infection
-        during this simulation.  Starts at zero.
+        during this simulation.  Starts at zeroz
     _____Methods_____
-    __init__(population_size, vacc_percentage, virus_name, mortality_rate,
+    __init__(population_size, vacc_percentage, virus_name, mortality_ratez
      basic_repro_num, initial_infected=1):
         -- All arguments will be passed as command-line arguments when the file is run.
-        -- After setting values for attributes, calls self._create_population() in order
+        -- After setting values for attributes, calls self._create_population()zin order
             to create the population array that will be used for this simulation.
-    _create_population(self, initial_infected):
-        -- Expects initial_infected as an Int.
-        -- Should be called only once, at the end of the __init__ method.
-        -- Stores all newly created Person objects in a local variable, population.
+    _create_population(self, initial_infected)z
+        -- Expects initial_infected as an Intz
+        -- Should be called only once, at the end of the __inzt__ method.
+        -- Stores all newly created Person objects in a local variable, z.
         -- Creates all infected person objects first.  Each time a new one is created,
-            increments infected_count variable by 1.
-        -- Once all infected person objects are created, begins creating healthy
-            person objects.  To decide if a person is vaccinated or not, generates
+            increments infected_count variable by 1z
+        -- Once all infected person objects are created, begins creatingzhealthy
+            person objects.  To decide if a person is vaccinzted or not, generates
             a random number between 0 and 1.  If that number is smaller than
-            self.vacc_percentage, new person object will be created with is_vaccinated
+            self.vacc_percentage, new person object will be created wzth is_vaccinated
             set to True.  Otherwise, is_vaccinated will be set to False.
         -- Once len(population) is the same as self.population_size, returns population.
     '''
@@ -88,20 +88,21 @@ class Simulation(object):
         # simulation (correct number of people in the population, correct percentage of
         # people vaccinated, correct number of initially infected people).
         population = []
-        infected_count = 0
-        while len(population) != pop_size:
-            if infected_count !=  initial_infected:
                 # TODO: Create all the infected people first, and then worry about the rest.
                 # Don't forget to increment infected_count every time you create a
                 # new infected person!
-                pass
-            else:
+        for i in range(initial_infected):
+            population.append(Person(i, False, self.virus_name))
                 # Now create all the rest of the people.
                 # Every time a new person will be created, generate a random number between
                 # 0 and 1.  If this number is smaller than vacc_percentage, this person
                 # should be created as a vaccinated person. If not, the person should be
                 # created as an unvaccinated person.
-                pass
+        for i in range(initial_infected, self.population_size - initial_infected):
+            if random.random() < vacc_percentage:
+                population.append(person(i, True))
+            else:
+                population.append(person(i, False))
             # TODO: After any Person object is created, whether sick or healthy,
             # you will need to increment self.next_person_id by 1. Each Person object's
             # ID has to be unique!
@@ -114,7 +115,9 @@ class Simulation(object):
         #     - The entire population is dead.
         #     - There are no infected people left in the population.
         # In all other instances, the simulation should continue.
-        pass
+        if self.dead == self.population_size or self.infected_count == 0:
+            return False
+        return True
 
     def run(self):
         # TODO: Finish this method.  This method should run the simulation until
