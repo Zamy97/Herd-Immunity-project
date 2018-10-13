@@ -55,8 +55,7 @@ class Logger(object):
         # full file name of the file that the logs will be written to.
         self.file_name = file_name
 
-    def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate,
-                       basic_repro_num):
+    def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num):
         # TODO: Finish this method.  The simulation class should use this method
         # immediately upon creation, to log the specific parameters of the simulation
         # as the first line of the file.  This line of metadata should be tab-delimited
@@ -67,10 +66,10 @@ class Logger(object):
         # since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        file = open(self.file_name, "w")
+        file.write("population Size: "+ population_size + "/n Vacc Percentage: "+ vacc_percentage + "/n Virus name: "+ virus_name + "/n Mortality Rate: "+ mortality_rate + "/n Infection Rate: "+ infection_on_people + "/n" )
 
-    def log_interaction(self, person1, person2, did_infect=None,
-                        person2_vacc=None, person2_sick=None):
+    def log_interaction(self, person1, person2, did_infect=None, person2_vacc=None, person2_sick=None):
         # TODO: Finish this method.  The Simulation object should use this method to
         # log every interaction a sick individual has during each time step.  This method
         # should accomplish this by using the information from person1 (the infected person),
@@ -82,7 +81,15 @@ class Logger(object):
         # all the possible edge cases!
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        file = open(self.file_name, "a")
+        if(did_infect):
+            file.write("Person {} infected Person-{}/n".format(person1._id, person2._id))
+        elif:
+            file.write("person {} was not able to infect Person-{} because they were vaccinated/n".format(person1._id, person2._id))
+        elif(person2_sick):
+            file.write("person {} was not able to infect Person-{} because they were already sick/n".format(person1._id, person2._id))
+        else:
+            file.write("person {} was not able to infect Person-{} by God's power/n".format(person1._id,person2._id))
 
     def log_infection_survival(self, person, did_die_from_infection):
         # TODO: Finish this method.  The Simulation object should use this method to log
