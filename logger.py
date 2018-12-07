@@ -43,7 +43,8 @@ class Logger(object):
         # represent all the possible edge cases. Use the values passed along with each person,
         # along with whether they are sick or vaccinated when they interact to determine
         # exactly what happened in the interaction and create a String, and write to your logfile.
-        pass
+        with open(self.file_name, "a") as f:
+            f.write("Person Infected: {}\n Person was in contact with: {}\n Contact Infected: {}\n Contact Vaccinated: {}\n Already Infected With: {}\n".format(person._id, random_person._id, did_infect, random_person_vacc, random_person_sick))
 
     def log_infection_survival(self, person, did_die_from_infection):
         ''' The Simulation object uses this method to log the results of every
@@ -80,6 +81,7 @@ class Logger(object):
             f.write("Time Steps: {}\n".format(time_step_number))
 
 
+# https://www.geeksforgeeks.org/reading-writing-text-files-python/
 
 
 
