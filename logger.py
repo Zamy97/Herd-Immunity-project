@@ -55,7 +55,8 @@ class Logger(object):
         # TODO: Finish this method. If the person survives, did_die_from_infection
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
-        pass
+        with open(self.file_name, "a") as f:
+            f.write(" Patient Infected with: {}\n Killed by Virus: {}\n".format(person, did_die_from_infection)
 
     def log_time_step(self, time_step_number):
         ''' STRETCH CHALLENGE DETAILS:
@@ -75,7 +76,8 @@ class Logger(object):
         # TODO: Finish this method. This method should log when a time step ends, and a
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
-        pass
+        with open(self.file_name, "a") as f:
+            f.write("Time Steps: {}\n".format(time_step_number))
 
 
 
