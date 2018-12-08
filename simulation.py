@@ -221,7 +221,18 @@ class Simulation(object):
         # TODO: Call this method at the end of every time step and infect each Person.
         # TODO: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list.
-        pass
+        infect_count = 0
+        for id in self.newly_infected:
+            if if == person._id:
+                if person.infection == None:
+                    if person.is_alive == True:
+                        infect_count += 1
+                        person.infection = self.virus
+
+        self.current_infected = infect_count
+        self.total_infected = infected_count
+        self.newly_infected = []
+
 
 
 if __name__ == "__main__":
