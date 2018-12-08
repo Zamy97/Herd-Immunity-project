@@ -13,7 +13,7 @@ class Simulation(object):
     population that are vaccinated, the size of the population, and the amount of initially
     infected people in a population are all variables that can be set when the program is run.
     '''
-    def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus_name):
+    def __init__(self, pop_size, vacc_percentage, virus_name, initial_infected=1):
         ''' Logger object logger records all events during the simulation.
         Population represents all Persons in the population.
         The next_person_id is the next available id for all created Persons,
@@ -133,10 +133,10 @@ class Simulation(object):
         while should_continue:
         # TODO: for every iteration of this loop, call self.time_step() to compute another
         # round of this simulation.
-        self.time_step()
-        time_step_counter += 1
-        self.logger.log_time_step(time_step_counter)
-        should_continue = self._simulation_should_continue()
+            self.time_step()
+            time_step_counter += 1
+            self.logger.log_time_step(time_step_counter)
+            should_continue = self._simulation_should_continue()
 
         print('The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
 
@@ -207,7 +207,7 @@ class Simulation(object):
                 if random_person.is_alive == True:
                     if (random_number / 100) < self.repro_rate:
                         self.newly_infected.append(random_person._id)
-                    self.logger.log_interaction(person, random_person, did_infect=True, random_person_sick=False. random_person_vacc=None)
+                    self.logger.log_interaction(person, random_person, did_infect=True, random_person_sick=False, random_person_vacc=None)
                 else:
                     self.logger.log_interaction(person, random_person, did_infect=False, random_person_vacc=False, random_person_sick=None)
             else:
@@ -223,7 +223,7 @@ class Simulation(object):
         # to reset self.newly_infected back to an empty list.
         infect_count = 0
         for id in self.newly_infected:
-            if if == person._id:
+            if id == person._id:
                 if person.infection == None:
                     if person.is_alive == True:
                         infect_count += 1

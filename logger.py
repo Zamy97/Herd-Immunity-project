@@ -60,9 +60,13 @@ class Logger(object):
             f.write(" Patient Infected with: {}\n Killed by Virus: {}\n".format(person, did_die_from_infection)
 
     def log_time_step(self, time_step_number):
-        with open(self.file_name, "a") as f:
-            f.write("Time Steps: {}\n".format(time_step_number))
-            
+        self.logger_file = open(file_name, 'a')
+        next_time_step = time_step_number += 1
+        logger_file.append("Time step " + time_step_number + " ended, beginning " + next_time_step /n)
+        logger_file.close()
+        # with open(self.file_name, "a") as f:
+        #     f.write("Time Steps: {}\n".format(time_step_number))
+
 
 
 # https://www.geeksforgeeks.org/reading-writing-text-files-python/
