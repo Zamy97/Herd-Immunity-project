@@ -28,7 +28,7 @@ class Person(object):
         # Only called if infection attribute is not None.
         # TODO:  Finish this method. Should return a Boolean
         prob_infected = random.random()
-        if prob_infected < mortality_rate:
+        if prob_infected < self.mortality_rate:
             self.is_alive = False
             return False
         else:
@@ -51,7 +51,7 @@ def test_not_vacc_person_instantiation():
     person = Person(2, False)
     assert person._id == 2
     assert person.is_alive is True
-    assert person.is_vaccinated is True
+    assert person.is_vaccinated is False
     assert person.infection is None
     # TODO: complete your own assert statements that test
     # the values at each attribute
@@ -61,6 +61,7 @@ def test_not_vacc_person_instantiation():
 def test_sick_person_instantiation():
     # Create a Virus object to give a Person object an infection
     virus = Virus("Dysentery", 0.7, 0.2)
+    assert virus.virus_name == "Dysentery"
     # Create a Person object and give them the virus infection
     person = Person(3, False, Ebola)
     # TODO: complete your own assert statements that test
