@@ -1,3 +1,6 @@
 [
-  "person.py::test_not_vacc_person_instantiation"
+  "person.py::test_vacc_person_instantiation",
+  "person.py::test_not_vacc_person_instantiation",
+  "person.py::test_sick_person_instantiation",
+  "person.py::test_did_survive_infection"
 ]
