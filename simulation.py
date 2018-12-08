@@ -153,7 +153,28 @@ class Simulation(object):
                 increment interaction counter by 1.
             '''
         # TODO: Finish this method.
-        pass
+        for person in self.population:
+            if person.infection == self.virus_name and person.is_alive == True:
+                interactions = 0
+
+                dead_people_count = 0
+
+                while interactions < 100:
+                    random_person = random.randrange(0, len(self.population))
+                    if random_person != person._id:
+                        if self.population[random_person].is_alive == True:
+                            self.interaction(person, self.population[random_person])
+                            interactions += 1
+                        else:
+                            dead_people_count += 1
+                    if dead_people_count > (len(self.population)-1):
+                        interactions = 100
+                did_survive = person.did_survive_infection(self.mortality_rate)
+                if did_survive == True:
+                    self.logger.log_infection_survival(person._id, False)
+                if did_survive == False:
+                    self.logger.log_infection_survival(person._id, True)
+        self._infect_newly_infected()
 
     def interaction(self, person, random_person):
         '''This method should be called any time two living people are selected for an
