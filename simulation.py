@@ -103,7 +103,18 @@ class Simulation(object):
                 bool: True for simulation should continue, False if it should end.
         '''
         # TODO: Complete this helper method.  Returns a Boolean.
-        pass
+        dead_people_count = 0
+        for person in self.population:
+            if person.is_alive == False:
+                dead_people_count += 1
+
+        if len(self.population) - self.total_dead <= 1:
+            print("Unfortunately Everyone is dead")
+            return False
+        elif self.current_infected == 0:
+            return False
+        else:
+            return True
 
     def run(self):
         ''' This method should run the simulation until all requirements for ending
