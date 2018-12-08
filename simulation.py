@@ -200,12 +200,20 @@ class Simulation(object):
             #     than repro_rate, random_person's ID should be appended to
             #     Simulation object's newly_infected array, so that their .infected
             #     attribute can be changed to True at the end of the time step.
-        # TODO: Call slogger method during this method.
-        if random_person.is_vaccinated == True:
-            # Nothing happens
-        elif random_person.infection == True:
-            # Nothing Happens
-            
+        # TODO: Call slogger method during this method
+        if random_person.infection == None:
+            if random_person.is_vaccinated == False:
+                random_number = random.randrange(0, 100)
+                if random_person.is_alive == True:
+                    if (random_number / 100) < self.repro_rate:
+                        self.newly_infected.append(random_person._id)
+                    self.logger.log_interaction(person, random_person, did_infect=True, random_person_sick=False. random_person_vacc=None)
+                else:
+                    self.logger.log_interaction(person, random_person, did_infect=False, random_person_vacc=False, random_person_sick=None)
+            else:
+                self.logger.log_interaction(person, random_person, did_infect=False, random_person_vacc=True, random_person_sick=None)
+        else:
+            self.logger.log_interaction(person, random_person, did_infect=False, random_person_vacc=False, random_person_sick=random_person.infection)
 
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
