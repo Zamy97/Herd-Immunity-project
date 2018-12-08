@@ -13,7 +13,7 @@ class Simulation(object):
     population that are vaccinated, the size of the population, and the amount of initially
     infected people in a population are all variables that can be set when the program is run.
     '''
-    def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus):
+    def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus_name):
         ''' Logger object logger records all events during the simulation.
         Population represents all Persons in the population.
         The next_person_id is the next available id for all created Persons,
@@ -33,6 +33,7 @@ class Simulation(object):
         # Remember to call the appropriate logger method in the corresponding parts of the simulation.
         # TODO: Call self._create_population() and pass in the correct parameters.
         # Store the array that this method will return in the self.population attribute.
+
         # TODO: Store each newly infected person's ID in newly_infected attribute.
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
@@ -40,7 +41,7 @@ class Simulation(object):
         self.population = [] # List of Person objects
         self.pop_size = pop_size # Int
         self.next_person_id = 0 # Int
-        self.virus = virus # Virus object
+        self.virus_name = virus_name # Virus object
         self.initial_infected = initial_infected # Int
         self.total_infected = 0 # Int
         self.current_infected = 0 # Int
@@ -49,8 +50,12 @@ class Simulation(object):
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
         self.newly_infected = []
+
         # From the todo
         self.population = self._create_population(self.initial_infected)
+
+        self.newly_infected.append(random_person._id)
+
 
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
@@ -70,6 +75,24 @@ class Simulation(object):
 
         # Use the attributes created in the init method to create a population that has
         # the correct intial vaccination percentage and initial infected.
+
+        population = []
+        infected_count = 0
+        while len(population) != pop_size:
+            if infected_count != initial_infected:
+                person = Person(self.next_person_id, False, infection= virus_name)
+                population.append(person)
+                infected_count += 1
+            else:
+                prob_infected = random.random()
+                if prob_infected < vacc_percentage:
+                    person = Person(self.next_person_id, True, infection = None)
+                elif prob_infected >= vacc_percentage:
+                    person = Person(self.next_person_id, False, infected = None)
+                population.append(person)
+            self.next_person_id += 1
+        return population
+
 
 
     def _simulation_should_continue(self):
