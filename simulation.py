@@ -65,7 +65,7 @@ class Simulation(object):
         print("Total infected", self.total_infected, "Total Dead", self.total_dead)
         print("Interactions where indidual as safe from vacciation", self.vacc_int)
 
-        self.logger.log_time_step(self.total_dead, step_counter)
+        # self.logger.log_time_step(self.total_dead, step_counter)
 
     def time_step(self):
         for person in self.population:

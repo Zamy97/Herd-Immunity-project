@@ -5,34 +5,33 @@ class Logger(object):
         self.file_name = file_name
 
     def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num):
-        with open(self.file_name, "w") as logger:
-            logger.write("Meta-Data")
-            logger.write("population Size: {}\n".format(pop_size))
-            logger.write("Percentage vaccinated: {}\n".format(vacc_percentage))
-            logger.write("Virus Name: {}\n".format(virus_name))
-            logger.write("Mortality rate: {}\n".format(mortality_rate))
-            logger.write("Basic Reproduction Rate: {}\n".format(basic_repro_num))
+        self.file = open(self.file_name, "w+")
+        self.file.write("Meta-Data")
+        self.file.write("population Size: {}\n".format(pop_size))
+        self.file.write("Percentage vaccinated: {}\n".format(vacc_percentage))
+        self.file.write("Virus Name: {}\n".format(virus_name))
+        self.file.write("Mortality rate: {}\n".format(mortality_rate))
+        self.file.write("Basic Reproduction Rate: {}\n".format(basic_repro_num))
 
     def log_interaction(self, person, random_person, random_person_sick=None, random_person_vacc=None, did_infect=None):
-        with open(self.file_name, "a") as f:
-            f.write("Person Infected: {}\n Person was in contact with: {}\n Contact Infected: {}\n Contact Vaccinated: {}\n Already Infected With: {}\n".format(person._id, random_person._id, did_infect, random_person_vacc, random_person_sick))
+        self.file = open(self.file_name, "a")
+        self.file.write("Person Infected: {}\n Person was in contact with: {}\n Contact Infected: {}\n Contact Vaccinated: {}\n Already Infected With: {}\n".format(person._id, random_person._id, did_infect, random_person_vacc, random_person_sick))
 
         if did_infect == True:
-            f.write("Citizen {} is now sick\n".format(random_person._id))
+            self.file.write("Citizen {} is now sick\n".format(random_person._id))
 
-        f.close()
+        # f.close()
 
     def log_infection_survival(self, person, did_die_from_infection):
-        with open(self.file_name, "a") as f:
-            if did_die_from_infection == True:
-                f.write("Patient {} was killed from infection\n".format(person._id))
-            else:
-                f.write("Patient {} survived the infection\n".format(person._id))
-                f.close()
+        self.file = open(self.file_name, "a")
+        if did_die_from_infection == True:
+            self.file.write("Patient {} was killed from infection\n".format(person._id))
+        else:
+            self.file.write("Patient {} survived the infection\n".format(person._id))
 
     def log_time_step (self, time_step_number):
-        with open(self.file, "a") as f:
-            f.write("Total Deaths: {}\nNumber of Weeks: {}".format(total_dead, counter))
+        self.file = open(self.file, "a")
+        self.file.write("Total Deaths: {}\nNumber of Weeks: {}".format(total_dead, counter))
 
 
 

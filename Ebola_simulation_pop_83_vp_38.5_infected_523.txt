@@ -1,0 +1,10 @@
+Meta-Datapopulation Size: 83
+Percentage vaccinated: 38.5
+Virus Name: Ebola
+Mortality rate: 394.5
+Basic Reproduction Rate: 64.4
+Person Infected: 1
+ Person was in contact with: 82
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
