@@ -1,0 +1,5 @@
+Meta-Datapopulation Size: 83464386
+Percentage vaccinated: 38638.0
+Virus Name: virus
+Mortality rate: 39478.0
+Basic Reproduction Rate: 6464.0

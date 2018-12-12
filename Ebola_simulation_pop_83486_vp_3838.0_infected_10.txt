@@ -1,0 +1,265 @@
+Meta-Datapopulation Size: 83486
+Percentage vaccinated: 3838.0
+Virus Name: Ebola
+Mortality rate: 394.0
+Basic Reproduction Rate: 64.0
+Person Infected: 1
+ Person was in contact with: 55607
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 1
+ Person was in contact with: 6148
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 1
+ Person was in contact with: 44495
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 1
+ Person was in contact with: 77787
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 1
+ Person was in contact with: 81387
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 2
+ Person was in contact with: 57492
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 2
+ Person was in contact with: 74899
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 2
+ Person was in contact with: 58163
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 2
+ Person was in contact with: 37127
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 2
+ Person was in contact with: 75263
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 3
+ Person was in contact with: 51737
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 3
+ Person was in contact with: 82952
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 3
+ Person was in contact with: 17032
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 3
+ Person was in contact with: 60631
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 3
+ Person was in contact with: 35532
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 4
+ Person was in contact with: 43026
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 4
+ Person was in contact with: 5234
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 4
+ Person was in contact with: 71362
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 4
+ Person was in contact with: 34336
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 4
+ Person was in contact with: 36110
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 5
+ Person was in contact with: 51911
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 5
+ Person was in contact with: 72575
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 5
+ Person was in contact with: 42617
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 5
+ Person was in contact with: 40729
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 5
+ Person was in contact with: 63251
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 6
+ Person was in contact with: 16420
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 6
+ Person was in contact with: 78431
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 6
+ Person was in contact with: 75691
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 6
+ Person was in contact with: 52905
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 6
+ Person was in contact with: 69334
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 7
+ Person was in contact with: 18748
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 7
+ Person was in contact with: 13145
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 7
+ Person was in contact with: 41562
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 7
+ Person was in contact with: 70034
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 7
+ Person was in contact with: 26991
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 8
+ Person was in contact with: 21390
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 8
+ Person was in contact with: 48478
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 8
+ Person was in contact with: 70927
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 8
+ Person was in contact with: 50676
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 8
+ Person was in contact with: 45456
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 9
+ Person was in contact with: 78694
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 9
+ Person was in contact with: 17166
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 9
+ Person was in contact with: 51578
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 9
+ Person was in contact with: 7883
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 9
+ Person was in contact with: 706
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 10
+ Person was in contact with: 4646
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 10
+ Person was in contact with: 71681
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 10
+ Person was in contact with: 3325
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 10
+ Person was in contact with: 59309
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Person Infected: 10
+ Person was in contact with: 14403
+ Contact Infected: False
+ Contact Vaccinated: True
+ Already Infected With: False
+Patient 1 was killed from infection
+Patient 2 was killed from infection
+Patient 3 was killed from infection
+Patient 4 was killed from infection
+Patient 5 was killed from infection
+Patient 6 was killed from infection
+Patient 7 was killed from infection
+Patient 8 was killed from infection
+Patient 9 was killed from infection
+Patient 10 was killed from infection
