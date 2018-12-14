@@ -1,0 +1,2294 @@
+Meta-Datapopulation Size: 78
+Percentage vaccinated: 9.065
+Virus Name: Dengu
+Mortality rate: 9.7
+Basic Reproduction Rate: 0.64
+Person Infected: 1
+ Person was in contact with: 15
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 15 is now sick
+Person Infected: 1
+ Person was in contact with: 36
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 36 is now sick
+Person Infected: 1
+ Person was in contact with: 18
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 1
+ Person was in contact with: 70
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 70 is now sick
+Person Infected: 1
+ Person was in contact with: 55
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 55 is now sick
+Person Infected: 2
+ Person was in contact with: 12
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 12 is now sick
+Person Infected: 2
+ Person was in contact with: 65
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 65 is now sick
+Person Infected: 2
+ Person was in contact with: 72
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 72 is now sick
+Person Infected: 2
+ Person was in contact with: 70
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 70 is now sick
+Person Infected: 2
+ Person was in contact with: 58
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 58 is now sick
+Person Infected: 3
+ Person was in contact with: 1
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 3
+ Person was in contact with: 21
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 3
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 3
+ Person was in contact with: 28
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 3
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 4
+ Person was in contact with: 49
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 49 is now sick
+Person Infected: 4
+ Person was in contact with: 45
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 45 is now sick
+Person Infected: 4
+ Person was in contact with: 6
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 4
+ Person was in contact with: 69
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 69 is now sick
+Person Infected: 4
+ Person was in contact with: 49
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 49 is now sick
+Person Infected: 5
+ Person was in contact with: 38
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 5
+ Person was in contact with: 47
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 47 is now sick
+Person Infected: 5
+ Person was in contact with: 9
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 9 is now sick
+Person Infected: 5
+ Person was in contact with: 30
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 5
+ Person was in contact with: 11
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 6
+ Person was in contact with: 13
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 13 is now sick
+Person Infected: 6
+ Person was in contact with: 59
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 59 is now sick
+Person Infected: 6
+ Person was in contact with: 47
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 47 is now sick
+Person Infected: 6
+ Person was in contact with: 46
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 46 is now sick
+Person Infected: 6
+ Person was in contact with: 35
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 7
+ Person was in contact with: 10
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 10 is now sick
+Person Infected: 7
+ Person was in contact with: 22
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 22 is now sick
+Person Infected: 7
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 7
+ Person was in contact with: 49
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 49 is now sick
+Person Infected: 7
+ Person was in contact with: 72
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 72 is now sick
+Person Infected: 8
+ Person was in contact with: 42
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 8
+ Person was in contact with: 8
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 8 is now sick
+Person Infected: 8
+ Person was in contact with: 5
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 8
+ Person was in contact with: 52
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 52 is now sick
+Person Infected: 8
+ Person was in contact with: 28
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 9
+ Person was in contact with: 73
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 9
+ Person was in contact with: 41
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 41 is now sick
+Person Infected: 9
+ Person was in contact with: 64
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 64 is now sick
+Person Infected: 9
+ Person was in contact with: 59
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 59 is now sick
+Person Infected: 9
+ Person was in contact with: 18
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 18 is now sick
+Person Infected: 10
+ Person was in contact with: 72
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 72 is now sick
+Person Infected: 10
+ Person was in contact with: 75
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 75 is now sick
+Person Infected: 10
+ Person was in contact with: 75
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 75 is now sick
+Person Infected: 10
+ Person was in contact with: 29
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 10
+ Person was in contact with: 18
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 18 is now sick
+Person Infected: 11
+ Person was in contact with: 12
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 11
+ Person was in contact with: 15
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 15 is now sick
+Person Infected: 11
+ Person was in contact with: 21
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 11
+ Person was in contact with: 55
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 55 is now sick
+Person Infected: 11
+ Person was in contact with: 50
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 50 is now sick
+Person Infected: 12
+ Person was in contact with: 60
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 60 is now sick
+Person Infected: 12
+ Person was in contact with: 71
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 12
+ Person was in contact with: 2
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 12
+ Person was in contact with: 15
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 12
+ Person was in contact with: 69
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 13
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 13
+ Person was in contact with: 56
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 56 is now sick
+Person Infected: 13
+ Person was in contact with: 1
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 13
+ Person was in contact with: 34
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 13
+ Person was in contact with: 23
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 23 is now sick
+Person Infected: 14
+ Person was in contact with: 14
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 14
+ Person was in contact with: 39
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 14
+ Person was in contact with: 65
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 65 is now sick
+Person Infected: 14
+ Person was in contact with: 20
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 20 is now sick
+Person Infected: 14
+ Person was in contact with: 21
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 21 is now sick
+Person Infected: 15
+ Person was in contact with: 68
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 15
+ Person was in contact with: 77
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 77 is now sick
+Person Infected: 15
+ Person was in contact with: 3
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 3 is now sick
+Person Infected: 15
+ Person was in contact with: 47
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 15
+ Person was in contact with: 40
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 40 is now sick
+Person Infected: 16
+ Person was in contact with: 31
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 16
+ Person was in contact with: 11
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 11 is now sick
+Person Infected: 16
+ Person was in contact with: 63
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 16
+ Person was in contact with: 69
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 16
+ Person was in contact with: 17
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 17
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 17
+ Person was in contact with: 68
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 17
+ Person was in contact with: 55
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 17
+ Person was in contact with: 70
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 17
+ Person was in contact with: 26
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 18
+ Person was in contact with: 52
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 18
+ Person was in contact with: 48
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 48 is now sick
+Person Infected: 18
+ Person was in contact with: 67
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 67 is now sick
+Person Infected: 18
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 18
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 19
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 19
+ Person was in contact with: 29
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 29 is now sick
+Person Infected: 19
+ Person was in contact with: 8
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 8 is now sick
+Person Infected: 19
+ Person was in contact with: 5
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 19
+ Person was in contact with: 10
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 10 is now sick
+Person Infected: 20
+ Person was in contact with: 36
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 20
+ Person was in contact with: 28
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 28 is now sick
+Person Infected: 20
+ Person was in contact with: 74
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 74 is now sick
+Person Infected: 20
+ Person was in contact with: 32
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 20
+ Person was in contact with: 53
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 53 is now sick
+Person Infected: 21
+ Person was in contact with: 13
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 21
+ Person was in contact with: 46
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 46 is now sick
+Person Infected: 21
+ Person was in contact with: 60
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 21
+ Person was in contact with: 7
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 21
+ Person was in contact with: 13
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 13 is now sick
+Person Infected: 22
+ Person was in contact with: 44
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 22
+ Person was in contact with: 14
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 14 is now sick
+Person Infected: 22
+ Person was in contact with: 25
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 25 is now sick
+Person Infected: 22
+ Person was in contact with: 18
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 18 is now sick
+Person Infected: 22
+ Person was in contact with: 36
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 36 is now sick
+Person Infected: 23
+ Person was in contact with: 10
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 10 is now sick
+Person Infected: 23
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 23
+ Person was in contact with: 70
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 23
+ Person was in contact with: 12
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 23
+ Person was in contact with: 31
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 31 is now sick
+Person Infected: 24
+ Person was in contact with: 63
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 63 is now sick
+Person Infected: 24
+ Person was in contact with: 52
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 24
+ Person was in contact with: 22
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 22 is now sick
+Person Infected: 24
+ Person was in contact with: 50
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 50 is now sick
+Person Infected: 24
+ Person was in contact with: 59
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 59 is now sick
+Person Infected: 25
+ Person was in contact with: 72
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 25
+ Person was in contact with: 63
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 63 is now sick
+Person Infected: 25
+ Person was in contact with: 38
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 38 is now sick
+Person Infected: 25
+ Person was in contact with: 8
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 8 is now sick
+Person Infected: 25
+ Person was in contact with: 70
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 70 is now sick
+Person Infected: 26
+ Person was in contact with: 41
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 41 is now sick
+Person Infected: 26
+ Person was in contact with: 75
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 75 is now sick
+Person Infected: 26
+ Person was in contact with: 68
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 68 is now sick
+Person Infected: 26
+ Person was in contact with: 66
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 66 is now sick
+Person Infected: 26
+ Person was in contact with: 24
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 24 is now sick
+Person Infected: 27
+ Person was in contact with: 9
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 27
+ Person was in contact with: 31
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 31 is now sick
+Person Infected: 27
+ Person was in contact with: 73
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 73 is now sick
+Person Infected: 27
+ Person was in contact with: 77
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 77 is now sick
+Person Infected: 27
+ Person was in contact with: 11
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 11 is now sick
+Person Infected: 28
+ Person was in contact with: 75
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 75 is now sick
+Person Infected: 28
+ Person was in contact with: 41
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 28
+ Person was in contact with: 27
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 28
+ Person was in contact with: 41
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 41 is now sick
+Person Infected: 28
+ Person was in contact with: 51
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 51 is now sick
+Person Infected: 29
+ Person was in contact with: 39
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 39 is now sick
+Person Infected: 29
+ Person was in contact with: 10
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 10 is now sick
+Person Infected: 29
+ Person was in contact with: 73
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 29
+ Person was in contact with: 10
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 10 is now sick
+Person Infected: 29
+ Person was in contact with: 65
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 65 is now sick
+Person Infected: 30
+ Person was in contact with: 45
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 30
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 30
+ Person was in contact with: 21
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 21 is now sick
+Person Infected: 30
+ Person was in contact with: 70
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 30
+ Person was in contact with: 68
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 68 is now sick
+Person Infected: 31
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 31
+ Person was in contact with: 14
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 31
+ Person was in contact with: 18
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 18 is now sick
+Person Infected: 31
+ Person was in contact with: 14
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 31
+ Person was in contact with: 20
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 20 is now sick
+Person Infected: 32
+ Person was in contact with: 78
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 78 is now sick
+Person Infected: 32
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 32
+ Person was in contact with: 34
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 34 is now sick
+Person Infected: 32
+ Person was in contact with: 33
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 32
+ Person was in contact with: 7
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 7 is now sick
+Person Infected: 33
+ Person was in contact with: 55
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 33
+ Person was in contact with: 6
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 6 is now sick
+Person Infected: 33
+ Person was in contact with: 17
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 17 is now sick
+Person Infected: 33
+ Person was in contact with: 34
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 34 is now sick
+Person Infected: 33
+ Person was in contact with: 57
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 57 is now sick
+Person Infected: 34
+ Person was in contact with: 55
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 55 is now sick
+Person Infected: 34
+ Person was in contact with: 15
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 15 is now sick
+Person Infected: 34
+ Person was in contact with: 20
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 20 is now sick
+Person Infected: 34
+ Person was in contact with: 48
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 48 is now sick
+Person Infected: 34
+ Person was in contact with: 19
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 19 is now sick
+Person Infected: 35
+ Person was in contact with: 6
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 6 is now sick
+Person Infected: 35
+ Person was in contact with: 6
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 35
+ Person was in contact with: 27
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 35
+ Person was in contact with: 14
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 14 is now sick
+Person Infected: 35
+ Person was in contact with: 72
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 36
+ Person was in contact with: 53
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 36
+ Person was in contact with: 20
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 36
+ Person was in contact with: 31
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 36
+ Person was in contact with: 23
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 36
+ Person was in contact with: 4
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 4 is now sick
+Person Infected: 37
+ Person was in contact with: 43
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 37
+ Person was in contact with: 53
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 37
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 37
+ Person was in contact with: 14
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 14 is now sick
+Person Infected: 37
+ Person was in contact with: 5
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 38
+ Person was in contact with: 29
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 29 is now sick
+Person Infected: 38
+ Person was in contact with: 59
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 59 is now sick
+Person Infected: 38
+ Person was in contact with: 30
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 30 is now sick
+Person Infected: 38
+ Person was in contact with: 25
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 25 is now sick
+Person Infected: 38
+ Person was in contact with: 36
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 39
+ Person was in contact with: 36
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 36 is now sick
+Person Infected: 39
+ Person was in contact with: 66
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 66 is now sick
+Person Infected: 39
+ Person was in contact with: 69
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 69 is now sick
+Person Infected: 39
+ Person was in contact with: 4
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 4 is now sick
+Person Infected: 39
+ Person was in contact with: 34
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 34 is now sick
+Person Infected: 40
+ Person was in contact with: 34
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 34 is now sick
+Person Infected: 40
+ Person was in contact with: 77
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 77 is now sick
+Person Infected: 40
+ Person was in contact with: 41
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 41 is now sick
+Person Infected: 40
+ Person was in contact with: 66
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 66 is now sick
+Person Infected: 40
+ Person was in contact with: 74
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 74 is now sick
+Person Infected: 41
+ Person was in contact with: 6
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 41
+ Person was in contact with: 1
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 1 is now sick
+Person Infected: 41
+ Person was in contact with: 69
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 41
+ Person was in contact with: 26
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 26 is now sick
+Person Infected: 41
+ Person was in contact with: 9
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 42
+ Person was in contact with: 43
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 43 is now sick
+Person Infected: 42
+ Person was in contact with: 16
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 42
+ Person was in contact with: 39
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 39 is now sick
+Person Infected: 42
+ Person was in contact with: 53
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 53 is now sick
+Person Infected: 42
+ Person was in contact with: 38
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 38 is now sick
+Person Infected: 43
+ Person was in contact with: 25
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 25 is now sick
+Person Infected: 43
+ Person was in contact with: 49
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 43
+ Person was in contact with: 23
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 23 is now sick
+Person Infected: 43
+ Person was in contact with: 39
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 39 is now sick
+Person Infected: 43
+ Person was in contact with: 1
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 1 is now sick
+Person Infected: 44
+ Person was in contact with: 27
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 27 is now sick
+Person Infected: 44
+ Person was in contact with: 75
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 75 is now sick
+Person Infected: 44
+ Person was in contact with: 42
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 42 is now sick
+Person Infected: 44
+ Person was in contact with: 57
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 44
+ Person was in contact with: 66
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 66 is now sick
+Person Infected: 45
+ Person was in contact with: 22
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 45
+ Person was in contact with: 37
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 37 is now sick
+Person Infected: 45
+ Person was in contact with: 43
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 43 is now sick
+Person Infected: 45
+ Person was in contact with: 31
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 45
+ Person was in contact with: 29
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 46
+ Person was in contact with: 19
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 19 is now sick
+Person Infected: 46
+ Person was in contact with: 32
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 46
+ Person was in contact with: 10
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 10 is now sick
+Person Infected: 46
+ Person was in contact with: 74
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 74 is now sick
+Person Infected: 46
+ Person was in contact with: 50
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 50 is now sick
+Person Infected: 47
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 47
+ Person was in contact with: 1
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 47
+ Person was in contact with: 14
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 47
+ Person was in contact with: 29
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 29 is now sick
+Person Infected: 47
+ Person was in contact with: 67
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 67 is now sick
+Person Infected: 48
+ Person was in contact with: 72
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 72 is now sick
+Person Infected: 48
+ Person was in contact with: 16
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 16 is now sick
+Person Infected: 48
+ Person was in contact with: 60
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 48
+ Person was in contact with: 72
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 72 is now sick
+Person Infected: 48
+ Person was in contact with: 57
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 57 is now sick
+Person Infected: 49
+ Person was in contact with: 65
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 65 is now sick
+Person Infected: 49
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 49
+ Person was in contact with: 21
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 49
+ Person was in contact with: 61
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 61 is now sick
+Person Infected: 49
+ Person was in contact with: 32
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 50
+ Person was in contact with: 36
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 50
+ Person was in contact with: 67
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 67 is now sick
+Person Infected: 50
+ Person was in contact with: 31
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 31 is now sick
+Person Infected: 50
+ Person was in contact with: 10
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 50
+ Person was in contact with: 31
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 31 is now sick
+Person Infected: 51
+ Person was in contact with: 41
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 51
+ Person was in contact with: 11
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 11 is now sick
+Person Infected: 51
+ Person was in contact with: 30
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 30 is now sick
+Person Infected: 51
+ Person was in contact with: 20
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 51
+ Person was in contact with: 9
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 9 is now sick
+Person Infected: 52
+ Person was in contact with: 43
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 43 is now sick
+Person Infected: 52
+ Person was in contact with: 54
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 54 is now sick
+Person Infected: 52
+ Person was in contact with: 54
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 54 is now sick
+Person Infected: 52
+ Person was in contact with: 75
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 52
+ Person was in contact with: 3
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 53
+ Person was in contact with: 74
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 74 is now sick
+Person Infected: 53
+ Person was in contact with: 1
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 53
+ Person was in contact with: 39
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 53
+ Person was in contact with: 54
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 54 is now sick
+Person Infected: 53
+ Person was in contact with: 70
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 54
+ Person was in contact with: 29
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 29 is now sick
+Person Infected: 54
+ Person was in contact with: 35
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 35 is now sick
+Person Infected: 54
+ Person was in contact with: 4
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 4 is now sick
+Person Infected: 54
+ Person was in contact with: 52
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 54
+ Person was in contact with: 60
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 55
+ Person was in contact with: 69
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 69 is now sick
+Person Infected: 55
+ Person was in contact with: 51
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 51 is now sick
+Person Infected: 55
+ Person was in contact with: 4
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 4 is now sick
+Person Infected: 55
+ Person was in contact with: 55
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 55 is now sick
+Person Infected: 55
+ Person was in contact with: 60
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 60 is now sick
+Person Infected: 56
+ Person was in contact with: 34
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 34 is now sick
+Person Infected: 56
+ Person was in contact with: 28
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 28 is now sick
+Person Infected: 56
+ Person was in contact with: 44
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 56
+ Person was in contact with: 49
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 49 is now sick
+Person Infected: 56
+ Person was in contact with: 54
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 54 is now sick
+Person Infected: 57
+ Person was in contact with: 11
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 11 is now sick
+Person Infected: 57
+ Person was in contact with: 70
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 70 is now sick
+Person Infected: 57
+ Person was in contact with: 45
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 45 is now sick
+Person Infected: 57
+ Person was in contact with: 9
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 57
+ Person was in contact with: 6
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 58
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 58
+ Person was in contact with: 3
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 3 is now sick
+Person Infected: 58
+ Person was in contact with: 31
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 31 is now sick
+Person Infected: 58
+ Person was in contact with: 15
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 15 is now sick
+Person Infected: 58
+ Person was in contact with: 28
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 28 is now sick
+Person Infected: 59
+ Person was in contact with: 33
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 59
+ Person was in contact with: 22
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 22 is now sick
+Person Infected: 59
+ Person was in contact with: 15
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 59
+ Person was in contact with: 21
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 59
+ Person was in contact with: 14
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 14 is now sick
+Person Infected: 60
+ Person was in contact with: 40
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 40 is now sick
+Person Infected: 60
+ Person was in contact with: 49
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 49 is now sick
+Person Infected: 60
+ Person was in contact with: 26
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 26 is now sick
+Person Infected: 60
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 60
+ Person was in contact with: 39
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 61
+ Person was in contact with: 77
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 61
+ Person was in contact with: 73
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 61
+ Person was in contact with: 45
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 45 is now sick
+Person Infected: 61
+ Person was in contact with: 48
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 48 is now sick
+Person Infected: 61
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 62
+ Person was in contact with: 54
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 62
+ Person was in contact with: 14
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 14 is now sick
+Person Infected: 62
+ Person was in contact with: 47
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 47 is now sick
+Person Infected: 62
+ Person was in contact with: 59
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 62
+ Person was in contact with: 56
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 56 is now sick
+Person Infected: 63
+ Person was in contact with: 67
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 63
+ Person was in contact with: 35
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 35 is now sick
+Person Infected: 63
+ Person was in contact with: 69
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 63
+ Person was in contact with: 60
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 60 is now sick
+Person Infected: 63
+ Person was in contact with: 76
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 76 is now sick
+Person Infected: 64
+ Person was in contact with: 32
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 64
+ Person was in contact with: 12
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 12 is now sick
+Person Infected: 64
+ Person was in contact with: 58
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 58 is now sick
+Person Infected: 64
+ Person was in contact with: 60
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 60 is now sick
+Person Infected: 64
+ Person was in contact with: 49
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 49 is now sick
+Person Infected: 65
+ Person was in contact with: 64
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 65
+ Person was in contact with: 24
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 24 is now sick
+Person Infected: 65
+ Person was in contact with: 46
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 65
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 65
+ Person was in contact with: 77
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 66
+ Person was in contact with: 36
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 36 is now sick
+Person Infected: 66
+ Person was in contact with: 67
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 66
+ Person was in contact with: 11
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 11 is now sick
+Person Infected: 66
+ Person was in contact with: 53
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 53 is now sick
+Person Infected: 66
+ Person was in contact with: 31
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 67
+ Person was in contact with: 63
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 63 is now sick
+Person Infected: 67
+ Person was in contact with: 3
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 3 is now sick
+Person Infected: 67
+ Person was in contact with: 29
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 29 is now sick
+Person Infected: 67
+ Person was in contact with: 32
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 32 is now sick
+Person Infected: 67
+ Person was in contact with: 75
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 75 is now sick
+Person Infected: 68
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 68
+ Person was in contact with: 55
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 68
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 68
+ Person was in contact with: 59
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 59 is now sick
+Person Infected: 68
+ Person was in contact with: 33
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 33 is now sick
+Person Infected: 69
+ Person was in contact with: 25
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 25 is now sick
+Person Infected: 69
+ Person was in contact with: 69
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 69
+ Person was in contact with: 24
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 24 is now sick
+Person Infected: 69
+ Person was in contact with: 62
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 62 is now sick
+Person Infected: 69
+ Person was in contact with: 76
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 70
+ Person was in contact with: 68
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 68 is now sick
+Person Infected: 70
+ Person was in contact with: 13
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 70
+ Person was in contact with: 38
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 38 is now sick
+Person Infected: 70
+ Person was in contact with: 23
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 23 is now sick
+Person Infected: 70
+ Person was in contact with: 69
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 69 is now sick
+Person Infected: 71
+ Person was in contact with: 6
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 71
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 71
+ Person was in contact with: 17
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 17 is now sick
+Person Infected: 71
+ Person was in contact with: 63
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 63 is now sick
+Person Infected: 71
+ Person was in contact with: 2
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 2 is now sick
+Person Infected: 72
+ Person was in contact with: 61
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 61 is now sick
+Person Infected: 72
+ Person was in contact with: 44
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 44 is now sick
+Person Infected: 72
+ Person was in contact with: 7
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 7 is now sick
+Person Infected: 72
+ Person was in contact with: 62
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 62 is now sick
+Person Infected: 72
+ Person was in contact with: 9
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 9 is now sick
+Person Infected: 73
+ Person was in contact with: 10
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 10 is now sick
+Person Infected: 73
+ Person was in contact with: 7
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 7 is now sick
+Person Infected: 73
+ Person was in contact with: 73
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 73
+ Person was in contact with: 11
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 73
+ Person was in contact with: 16
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 16 is now sick
+Person Infected: 74
+ Person was in contact with: 54
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 54 is now sick
+Person Infected: 74
+ Person was in contact with: 29
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 74
+ Person was in contact with: 49
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 49 is now sick
+Person Infected: 74
+ Person was in contact with: 57
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 57 is now sick
+Person Infected: 74
+ Person was in contact with: 76
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 75
+ Person was in contact with: 40
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 40 is now sick
+Person Infected: 75
+ Person was in contact with: 8
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 8 is now sick
+Person Infected: 75
+ Person was in contact with: 13
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 75
+ Person was in contact with: 27
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 27 is now sick
+Person Infected: 75
+ Person was in contact with: 34
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 76
+ Person was in contact with: 21
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 21 is now sick
+Person Infected: 76
+ Person was in contact with: 71
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 71 is now sick
+Person Infected: 76
+ Person was in contact with: 1
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 1 is now sick
+Person Infected: 76
+ Person was in contact with: 77
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 77 is now sick
+Person Infected: 76
+ Person was in contact with: 5
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 5 is now sick
+Person Infected: 77
+ Person was in contact with: 37
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 77
+ Person was in contact with: 59
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 59 is now sick
+Person Infected: 77
+ Person was in contact with: 30
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 77
+ Person was in contact with: 76
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 77
+ Person was in contact with: 26
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 26 is now sick
+Person Infected: 78
+ Person was in contact with: 70
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 70 is now sick
+Person Infected: 78
+ Person was in contact with: 20
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 78
+ Person was in contact with: 19
+ Contact Infected: True
+ Contact Vaccinated: False
+ Already Infected With: True
+Citizen 19 is now sick
+Person Infected: 78
+ Person was in contact with: 22
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Person Infected: 78
+ Person was in contact with: 77
+ Contact Infected: False
+ Contact Vaccinated: False
+ Already Infected With: True
+Patient 1 was killed from infection
+Patient 2 was killed from infection
+Patient 3 was killed from infection
+Patient 4 was killed from infection
+Patient 5 was killed from infection
+Patient 6 was killed from infection
+Patient 7 was killed from infection
+Patient 8 was killed from infection
+Patient 9 was killed from infection
+Patient 10 was killed from infection
+Patient 11 was killed from infection
+Patient 12 was killed from infection
+Patient 13 was killed from infection
+Patient 14 was killed from infection
+Patient 15 was killed from infection
+Patient 16 was killed from infection
+Patient 17 was killed from infection
+Patient 18 was killed from infection
+Patient 19 was killed from infection
+Patient 20 was killed from infection
+Patient 21 was killed from infection
+Patient 22 was killed from infection
+Patient 23 was killed from infection
+Patient 24 was killed from infection
+Patient 25 was killed from infection
+Patient 26 was killed from infection
+Patient 27 was killed from infection
+Patient 28 was killed from infection
+Patient 29 was killed from infection
+Patient 30 was killed from infection
+Patient 31 was killed from infection
+Patient 32 was killed from infection
+Patient 33 was killed from infection
+Patient 34 was killed from infection
+Patient 35 was killed from infection
+Patient 36 was killed from infection
+Patient 37 was killed from infection
+Patient 38 was killed from infection
+Patient 39 was killed from infection
+Patient 40 was killed from infection
+Patient 41 was killed from infection
+Patient 42 was killed from infection
+Patient 43 was killed from infection
+Patient 44 was killed from infection
+Patient 45 was killed from infection
+Patient 46 was killed from infection
+Patient 47 was killed from infection
+Patient 48 was killed from infection
+Patient 49 was killed from infection
+Patient 50 was killed from infection
+Patient 51 was killed from infection
+Patient 52 was killed from infection
+Patient 53 was killed from infection
+Patient 54 was killed from infection
+Patient 55 was killed from infection
+Patient 56 was killed from infection
+Patient 57 was killed from infection
+Patient 58 was killed from infection
+Patient 59 was killed from infection
+Patient 60 was killed from infection
+Patient 61 was killed from infection
+Patient 62 was killed from infection
+Patient 63 was killed from infection
+Patient 64 was killed from infection
+Patient 65 was killed from infection
+Patient 66 was killed from infection
+Patient 67 was killed from infection
+Patient 68 was killed from infection
+Patient 69 was killed from infection
+Patient 70 was killed from infection
+Patient 71 was killed from infection
+Patient 72 was killed from infection
+Patient 73 was killed from infection
+Patient 74 was killed from infection
+Patient 75 was killed from infection
+Patient 76 was killed from infection
+Patient 77 was killed from infection
+Patient 78 was killed from infection
